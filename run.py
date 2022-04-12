@@ -1,6 +1,6 @@
 from wsgiref.simple_server import make_server
-
 import simba_framework.main
+import simba_framework.templator
 from urls import routes, fronts
 
 
